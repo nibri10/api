@@ -48,21 +48,20 @@
      
     * 9.Testing application
         * [Postman](https://www.getpostman.com/)
-     #####our
+     ##### our
         
-      #####RUN UNIT TEST CASE
+      ##### RUN UNIT TEST CASE
       `` test/Feature``
  ##
      
-     ###Available Tests
-      ```
-            LoginTest.php
-            PostTest.php
-            RegisterTest.php
-      ```
+   ### Available Tests
+         LoginTest.php
+         PostTest.php
+         RegisterTest.php
+           
 
  
-#
+  #
   
       
   
