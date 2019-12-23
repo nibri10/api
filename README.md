@@ -46,7 +46,7 @@
      php artisan serve
      ```
      
-    * 9.Testing application
+   * 9.Testing application
         * [Postman](https://www.getpostman.com/)
      ##### our
         
