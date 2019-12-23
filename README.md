@@ -21,7 +21,7 @@
      ```
      php artisan key:generate
      ```
-   * 3.Create database base with name LaravelEventsProject in Mysql
+   * 3.Create database base with name ``api`` in Mysql
       ```
       create database  api
       ```
